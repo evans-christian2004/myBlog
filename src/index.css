@@ -2,9 +2,9 @@
 @tailwind components;
 @tailwind utilities;
 
-body{
-    background-color: #EAF4F4;
-    width: 100vw;
-    overflow-x: hidden;
-    font-family: "Montserrat", sans-serif;
+body {
+  background-color: #f9fcf8;
+  width: 100vw;
+  overflow-x: hidden;
+  font-family: "Montserrat", sans-serif;
 }
