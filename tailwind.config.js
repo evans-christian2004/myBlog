@@ -7,7 +7,7 @@ export default {
       colors:{
         'cpPrimary' : '#81fd0d',
         'cpSecondary' : '#a8ff9b',
-        'cpAccent' : '#a8ff9b',
+        'cpAccent' : '#43b33d',
       }
     },
   },
