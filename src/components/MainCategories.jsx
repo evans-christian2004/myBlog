@@ -3,9 +3,9 @@ import { Link } from 'react-router-dom'
 
 const MainCategories = () => {
   return (
-    <div className='w-4/5 hidden md:flex  bg-white rounded-3xl xl:rounded-full p-4 shadow-lg items-center justify-center gap-8 m-auto'>
+    <div className='max-w-screen-xl hidden md:flex  bg-white rounded-3xl lg:rounded-full p-4 shadow-lg items-center justify-center gap-8 m-auto'>
         {/* links */}
-        <div className="flex-1 flex items-center justify-between flex-wrap">
+        <div className="flex-1 flex items-center gap-1 justify-between flex-wrap">
             <Link to="/posts" className='bg-cpAccent text-white rounded-full px-4 py-2'>All Posts</Link>
             <Link to="/posts?cat=web-design" className='rounded-full px-4 py-2 hover:bg-lime-100 transition-all ease-in'>
                 Web Design
