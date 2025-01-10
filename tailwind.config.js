@@ -5,9 +5,11 @@ export default {
     
     extend: {
       colors:{
-        'cpPrimary' : '#81fd0d',
-        'cpSecondary' : '#a8ff9b',
-        'cpAccent' : '#43b33d',
+        'cpPrimary' : '#6ce235',
+        'cpSecondary' : '#8bc6ef',
+        'cpAccent' : '#606de8',
+        'cpSecondaryLight' : '#e0f1f0',
+        'cpPrimaryLight' : '#eefbe7', 
       }
     },
   },

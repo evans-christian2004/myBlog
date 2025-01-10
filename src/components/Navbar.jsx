@@ -34,7 +34,7 @@ const Navbar = () => {
                     <Link to="/">Most Popular</Link>
                     <Link to="/">About</Link>
                     <Link to="">
-                    <button className='py-2 px-4 rounded-3xl bg-cpPrimary'>Login 👋</button>
+                    <button className='py-2 px-4 rounded-3xl bg-cpSecondary'>Login 👋</button>
                     </Link>
                 </div>
             </div>
